@@ -20,6 +20,7 @@ SITES:
   * Deleta sites utilizando URL
 
 HOTEIS:
+
   GET
   http://127.0.0.1:5000/hoteis/all
   * Lista todos hoteis cadastrados
@@ -42,6 +43,7 @@ HOTEIS:
   * Deleta Hotel pelo ID
   
  Usuários:
+ 
   GET
   http://127.0.0.1:5000/usuarios/{user_id}
   * Busca usuário pelo ID
