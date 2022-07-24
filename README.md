@@ -2,6 +2,7 @@
 API que disponibiliza hoteis em catalogo.
 
 SITES:
+
   GET
   http://127.0.0.1:5000/sites
   * Lista todos hoteis disponiveis
