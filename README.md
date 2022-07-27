@@ -1,4 +1,4 @@
-Inicializar projeto
+CONFIGURAR AMBIENTE
 
 python3 -m venv env
 
@@ -7,6 +7,8 @@ pip install --upgrade pip
 pip install --upgrade pip setuptools
 
 pip install -r requiriments.txt
+
+INICIAR API
 
 python app.py
 
