@@ -1,4 +1,4 @@
-<H1> CONFIGURAR AMBIENTE</h1>
+<h1> Configurar Ambiente </h1>
 
 python3 -m venv env
 
