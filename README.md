@@ -18,7 +18,7 @@ python app.py
 # flask_api_hotel
 API que disponibiliza hoteis em catálogo.
 
-ENDPOINTS:
+<b>ENDPOINTS:</b>
 
   GET
   http://127.0.0.1:5000/sites
@@ -36,7 +36,7 @@ ENDPOINTS:
   http://127.0.0.1:5000/sites/{url}
   * Deleta sites utilizando URL
 
-HOTEIS:
+<b>HOTEIS:</b>
 
   GET
   http://127.0.0.1:5000/hoteis/all
@@ -59,7 +59,7 @@ HOTEIS:
   http://127.0.0.1:5000/hoteis/1
   * Deleta Hotel pelo ID
   
- Usuários:
+ <b>Usuários:<b/>
  
   GET
   http://127.0.0.1:5000/usuarios/{user_id}
@@ -73,7 +73,7 @@ HOTEIS:
   http://127.0.0.1:5000/cadastro
   * Cadastra usuário
   
-Autenticação:
+<b>Autenticação:</b>
 
   POST
   http://127.0.0.1:5000/login
