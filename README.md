@@ -1,8 +1,11 @@
 Inicializar projeto
 
 python3 -m venv env
+
 pip install --upgrade pip 
+
 pip install --upgrade pip setuptools
+
 pip install -r requiriments.txt
 
 python app.py
