@@ -1,7 +1,17 @@
-# flask_api_hotel
-API que disponibiliza hoteis em catalogo.
+Inicializar projeto
 
-SITES:
+python3 -m venv env
+pip install --upgrade pip 
+pip install --upgrade pip setuptools
+pip install -r requiriments.txt
+
+python app.py
+
+
+# flask_api_hotel
+API que disponibiliza hoteis em catálogo.
+
+ENDPOINTS:
 
   GET
   http://127.0.0.1:5000/sites
